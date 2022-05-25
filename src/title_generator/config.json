@@ -1,0 +1,4 @@
+{
+    "output_dir": "/tmp/",
+    "predict_with_generate": true
+}

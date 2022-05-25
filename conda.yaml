@@ -1,0 +1,18 @@
+name: issue-title-generator
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - cudatoolkit
+  - fastapi
+  - nltk
+  - uvicorn
+  - pydantic
+  - pytorch
+  - python=3.8
+  - pip
+  - pip:
+    - transformers
+    - regex
+    - datasets
