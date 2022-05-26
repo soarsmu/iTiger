@@ -1,4 +1,5 @@
 # Introduction
+The walkthrough video is available [here](https://smu-my.sharepoint.com/:v:/g/personal/tingzhang_2019_phdcs_smu_edu_sg/Eb2E0ykaqsFInt3p835L_bEBUlmzEwSXExIOL25OXJbYDA?e=cJ3W7P)
 
 # Model
 ## Fine-tuning BART
@@ -18,7 +19,7 @@ Please refer to the original repository.
 ## Pre-requisites:
 
 1. Clone the project at <path_to_directory>
-2. Download model from https://smu-my.sharepoint.com/:u:/g/personal/ivanairsan_smu_edu_sg/EaxUXHAlwGtLsKTRSmse48IBq63hI4l-IjrXGLVMj-6Y-A?e=qH6DsU
+2. Download model from [here](https://smu-my.sharepoint.com/:u:/g/personal/ivanairsan_smu_edu_sg/EaxUXHAlwGtLsKTRSmse48IBq63hI4l-IjrXGLVMj-6Y-A?e=qH6DsU)
 3. Extract and put the `model` folder under <path_to_directory>/iTiger (same level as `src`)
 
 ## Usage
