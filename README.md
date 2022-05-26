@@ -17,9 +17,9 @@ Please refer to the original repository.
 # iTiger Installation
 ## Pre-requisites:
 
-    1. Clone the project at <path_to_directory>
-    2. Download model from <TODO: model_link>
-    3. Put the model under <path_to_directory>/iTiger (same directory as `src`)
+1. Clone the project at <path_to_directory>
+2. Download model from https://smu-my.sharepoint.com/:u:/g/personal/ivanairsan_smu_edu_sg/EaxUXHAlwGtLsKTRSmse48IBq63hI4l-IjrXGLVMj-6Y-A?e=qH6DsU
+3. Extract and put the `model` folder under <path_to_directory>/iTiger (same level as `src`)
 
 ## Usage
 
@@ -42,7 +42,7 @@ Please refer to the original repository.
 
 3. Add [GithubIssueTItleRecommender.user.js](GithubIssueTItleRecommender.user.js) to Tampermonkey extension
 
-   (WARNING: you need to adjust the `base_url` to your deployed server's endpoint)
+   (WARNING: you need to adjust the `base_url` variable in the script, setting it to your deployed server's endpoint)
 
    If iTiger's backend is deployed in your local machine, change the `base_url` to localhost:8000. 
    
