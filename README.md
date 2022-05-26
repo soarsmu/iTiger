@@ -1,7 +1,5 @@
 # Introduction
 
-# How to use our tool
-
 # Model
 ## Fine-tuning BART
 Run the script in `src/run_summarization.py`
@@ -14,7 +12,6 @@ Please refer to the original repository.
 1. Sample 30 issues
 
 2. Analyze the result
-
 
 
 # iTiger Installation
@@ -41,7 +38,7 @@ Please refer to the original repository.
 
 
 ### iTiger UI
-3. Install Tampermonkey on Chrome / Opera / Safari
+3. Install Tampermonkey on [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) / [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/) / [Safari](https://www.tampermonkey.net/?browser=safari)
 
 3. Add `Github Issue TItle Recommender.user.js` to Tampermonkey extension
 
