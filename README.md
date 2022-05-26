@@ -42,7 +42,7 @@ Please refer to the original repository.
 
 3. Add `Github Issue TItle Recommender.user.js` to Tampermonkey extension
 
-   (WARNING: you need to adjust the `base_url` to your deployed server's endpoint)
+   (WARNING: you need to adjust the `base_url` variable in the script, setting it to your deployed server's endpoint)
 
    If iTiger's backend is deployed in your local machine, change the `base_url` to localhost:8000. 
    
