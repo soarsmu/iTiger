@@ -52,8 +52,8 @@ Please refer to the original repository.
 
 
 ### NOTES:
-* We have an available server for testing purpose at `http://60a2-202-161-44-1.eu.ngrok.io`
+* We have an available server for testing purpose at `http://4d1d-202-161-44-1.eu.ngrok.io`
 
     endpoint: `<URL>/predict?text=<issue src>`
     
-    example: `http://60a2-202-161-44-1.eu.ngrok.io/predict?text="windows not closed properly"`
+    example: `http://4d1d-202-161-44-1.eu.ngrok.io/predict?text="windows not closed properly"`
