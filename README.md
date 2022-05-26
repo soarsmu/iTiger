@@ -21,8 +21,8 @@ Please refer to the original repository.
 ## Pre-requisites:
 
     1. Clone the project at <path_to_directory>
-    2. Download model from <TODO: model_link>
-    3. Put the model under <path_to_directory>/iTiger (same directory as `src`)
+    2. Download model from https://smu-my.sharepoint.com/:u:/g/personal/ivanairsan_smu_edu_sg/EaxUXHAlwGtLsKTRSmse48IBq63hI4l-IjrXGLVMj-6Y-A?e=qH6DsU
+    3. Put the `model` folder under <path_to_directory>/iTiger (same level as `src`)
 
 ## Usage
 
