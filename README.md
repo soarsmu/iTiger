@@ -40,7 +40,7 @@ Please refer to the original repository.
 ### iTiger UI
 3. Install Tampermonkey on [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) / [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/) / [Safari](https://www.tampermonkey.net/?browser=safari)
 
-3. Add `Github Issue TItle Recommender.user.js` to Tampermonkey extension
+3. Add [GithubIssueTItleRecommender.user.js](GithubIssueTItleRecommender.user.js) to Tampermonkey extension
 
    (WARNING: you need to adjust the `base_url` to your deployed server's endpoint)
 
