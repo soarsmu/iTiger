@@ -1,18 +1,21 @@
 # Introduction
-The walkthrough video is available [here](https://smu-my.sharepoint.com/:v:/g/personal/tingzhang_2019_phdcs_smu_edu_sg/Eb2E0ykaqsFInt3p835L_bEBUlmzEwSXExIOL25OXJbYDA?e=cJ3W7P)
+The walkthrough video is available [online](https://smu-my.sharepoint.com/:v:/g/personal/tingzhang_2019_phdcs_smu_edu_sg/Eb2E0ykaqsFInt3p835L_bEBUlmzEwSXExIOL25OXJbYDA?e=cJ3W7P).
 
 # Model
 ## Fine-tuning BART
-Run the script in `src/run_summarization.py`
+Run the script in `src/run_summarization.py`.
 
 ## Baseline: iTAPE
-Please refer to the original repository.
+Please refer to the original [repository](https://github.com/imcsq/iTAPE).
 
 # Evaluation
 ## Human Evaluation
 1. Sample 30 issues
+- [The sampled file for evaluation](./human-evaluation/sampled-for-evaluation.csv).
+- [The sampled ground truth file](./human-evaluation/sampled-ground.csv).
 
 2. Analyze the result
+Run the script in `src/analyze_human_eval.py`.
 
 
 # iTiger Installation
