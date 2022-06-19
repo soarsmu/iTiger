@@ -1,5 +1,5 @@
 # Introduction
-The walkthrough video is available [online](https://smu-my.sharepoint.com/:v:/g/personal/tingzhang_2019_phdcs_smu_edu_sg/Eb2E0ykaqsFInt3p835L_bEBUlmzEwSXExIOL25OXJbYDA?e=cJ3W7P).
+The walkthrough video is available [online](https://smu-my.sharepoint.com/:v:/g/personal/tingzhang_2019_phdcs_smu_edu_sg/EZeV-XypodpPnCgOmNR1GMcB-1cMoRBXRRg0xMiepPLeww?e=KqG2mI).
 
 # Model
 ## Fine-tuning BART
