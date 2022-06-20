@@ -51,12 +51,3 @@ Run the script in `src/analyze_human_eval.py`.
    If iTiger's backend is deployed in your local machine, change the `base_url` to localhost:8000. 
    
    Otherwise, use the ngrok host as `base_url`.
-
-
-
-### NOTES:
-* We have an available server for testing purpose at `http://c3f6-202-161-44-1.eu.ngrok.io/`
-
-    endpoint: `<URL>/predict?text=<issue src>`
-    
-    example: `http://c3f6-202-161-44-1.eu.ngrok.io/predict?text="windows not closed properly"`
