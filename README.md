@@ -22,7 +22,7 @@ Run the script in `src/analyze_human_eval.py`.
 ## Pre-requisites:
 
 1. Clone the project at <path_to_directory>
-2. Download model from [here].(https://smu-my.sharepoint.com/:u:/g/personal/tingzhang_2019_phdcs_smu_edu_sg/Ed0SndjXpUhIgbfsWGNi8TgBCRX8M5d8daIvSBwLOYKm7Q?e=e4ueTf)
+2. Download model from [here](https://smu-my.sharepoint.com/:u:/g/personal/tingzhang_2019_phdcs_smu_edu_sg/Ed0SndjXpUhIgbfsWGNi8TgBCRX8M5d8daIvSBwLOYKm7Q?e=e4ueTf).
 3. Extract and put the `model` folder under <path_to_directory>/iTiger (same level as `src`)
 
 ## Usage
